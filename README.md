@@ -33,4 +33,4 @@ This project is create the website using HTML only.
 
 
 This is a HTML project targeting Web development.
-Instructions to run the project [Basic HTML](https://roadmap.sh/projects/basic-html-website)…
+Instructions to run the project [Basic HTML](https://roadmap.sh/projects/basic-html-website)
