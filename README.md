@@ -6,24 +6,20 @@
 
 
 # Basic HTML Website
-
-create the website using HTML only.
+This project is create the website using HTML only.
 
 
 # 📸Screenshots
-
 <img src = "https://github.com/user-attachments/assets/f12724eb-9572-4ef5-b7cf-69110c721741" width = "800" height = "700">
 
 
 
 
 # 🧑🏾‍💻Build with
-
 * [HTML](https://www.w3schools.com/html/) - is Hypertext markup language for Web pages.
 
 
-# 📹Demo video
-        
+# 📹Demo video     
 <table>
  <tr>
    <video width="320" height="240" controls>
