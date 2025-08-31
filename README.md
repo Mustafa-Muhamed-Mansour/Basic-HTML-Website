@@ -29,3 +29,8 @@ This project is create the website using HTML only.
 </table>
 
 
+
+
+
+This is a HTML project targeting Web development.
+Instructions to run the project (https://roadmap.sh/projects/basic-html-website)…
