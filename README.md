@@ -6,7 +6,7 @@
 
 
 # Basic HTML Website
-This project is create the website using HTML only.
+This project is to create the website using HTML only.
 
 
 # 📸Screenshots
